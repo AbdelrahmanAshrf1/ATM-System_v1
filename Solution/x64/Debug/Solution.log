@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(2)\1)_Mentor_Solution\Solution\Solution.cpp(35,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(2)\1)_Mentor_Solution\Solution\Solution.cpp(297,13): warning C4129: 'D': unrecognized character escape sequence
+  Solution.vcxproj -> D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(2)\1)_Mentor_Solution\Solution\x64\Debug\Solution.exe
